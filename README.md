@@ -30,7 +30,7 @@ O programa solicita ao usuário que escolha uma opção (0 para Pedra, 1 para Pa
 
 O código-fonte principal está no arquivo `pedra_papel_tesoura.c`.
 
-Melhorias Futuras
+#Melhorias Futuras
 
 Implementar um sistema de pontuação.
 
@@ -39,9 +39,9 @@ Adicionar a opção de jogar várias rodadas.
 Melhorar a interface do usuário.
 
 
-Autor
+#Autor
 
-Robert Emanuel
+#Robert Emanuel
 
 Data de Criação
 
