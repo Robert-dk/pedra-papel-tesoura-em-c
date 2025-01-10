@@ -31,12 +31,20 @@ O programa solicita ao usuário que escolha uma opção (0 para Pedra, 1 para Pa
 O código-fonte principal está no arquivo `pedra_papel_tesoura.c`.
 
 Melhorias Futuras
+
 Implementar um sistema de pontuação.
+
 Adicionar a opção de jogar várias rodadas.
+
 Melhorar a interface do usuário.
+
+
 Autor
+
 Robert Emanuel
+
 Data de Criação
+
 26/04/2024
-Versão
-2.0
+
+Versão 2.0
